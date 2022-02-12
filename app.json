@@ -1,8 +1,8 @@
 {
-    "name": "KyyMusic",
+    "name": "ASSMusic",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/muhamadrizky16/KyyMusic",
+    "repository": "https://github.com/vio-id/KyyMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
-            "value": "https://github.com/muhammadrizky16/KyyMusic",
+            "value": "https://github.com/vio-id/KyyMusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
